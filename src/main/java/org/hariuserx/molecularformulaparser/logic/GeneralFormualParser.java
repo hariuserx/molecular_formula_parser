@@ -212,13 +212,6 @@ public class GeneralFormualParser implements IFormulaParser {
         return skip;
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see
-     * com.strandgenomics.marray.ms.viz.kendrick.IFormulaParser#parse(java.lang.
-     * String)
-     */
     @Override
     public void parse(String fragment) {
         breakUp = "";
