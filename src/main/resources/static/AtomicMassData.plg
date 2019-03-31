@@ -1,0 +1,598 @@
+<data>
+
+    <element>
+    <key>H</key>
+    <mass>1.00782503223</mass>
+    </element>
+
+    <element>
+    <key>D</key>
+    <mass>2.01410177812</mass>
+    </element>
+
+    <element>
+    <key>He</key>
+    <mass>4.00260325413</mass>
+    </element>
+
+    <element>
+    <key>Li</key>
+    <mass>7.0160034366</mass>
+    </element>
+
+    <element>
+    <key>Be</key>
+    <mass>9.012183065</mass>
+    </element>
+
+    <element>
+    <key>B</key>
+    <mass>11.00930536</mass>
+    </element>
+
+    <element>
+    <key>C</key>
+    <mass>12.0000000</mass>
+    </element>
+
+    <element>
+    <key>N</key>
+    <mass>14.00307400443</mass>
+    </element>
+
+    <element>
+    <key>O</key>
+    <mass>15.99491461957</mass>
+    </element>
+
+    <element>
+    <key>F</key>
+    <mass>18.99840316273</mass>
+    </element>
+
+    <element>
+    <key>Ne</key>
+    <mass>19.9924401762</mass>
+    </element>
+
+    <element>
+    <key>Na</key>
+    <mass>22.9897692820</mass>
+    </element>
+
+    <element>
+    <key>Mg</key>
+    <mass>23.985041697</mass>
+    </element>
+
+    <element>
+    <key>Al</key>
+    <mass>26.98153853</mass>
+    </element>
+
+    <element>
+    <key>Si</key>
+    <mass>27.97692653465</mass>
+    </element>
+
+    <element>
+    <key>P</key>
+    <mass>30.97376199842</mass>
+    </element>
+
+    <element>
+    <key>S</key>
+    <mass>31.9720711744</mass>
+    </element>
+
+    <element>
+    <key>Cl</key>
+    <mass>34.968852682</mass>
+    </element>
+
+    <element>
+    <key>Ar</key>
+    <mass>39.9623831237</mass>
+    </element>
+
+    <element>
+    <key>K</key>
+    <mass>38.9637064864</mass>
+    </element>
+
+    <element>
+    <key>Ca</key>
+    <mass>39.962590863</mass>
+    </element>
+
+    <element>
+    <key>Sc</key>
+    <mass>44.95590828</mass>
+    </element>
+
+    <element>
+    <key>Ti</key>
+    <mass>47.94794198</mass>
+    </element>
+
+    <element>
+    <key>V</key>
+    <mass>50.94395704</mass>
+    </element>
+
+    <element>
+    <key>Cr</key>
+    <mass>51.94050623</mass>
+    </element>
+
+    <element>
+    <key>Mn</key>
+    <mass>54.93804391</mass>
+    </element>
+
+    <element>
+    <key>Fe</key>
+    <mass>55.93493633</mass>
+    </element>
+
+    <element>
+    <key>Co</key>
+    <mass>58.93319429</mass>
+    </element>
+
+    <element>
+    <key>Ni</key>
+    <mass>57.93534241</mass>
+    </element>
+
+    <element>
+    <key>Cu</key>
+    <mass>62.92959772</mass>
+    </element>
+
+    <element>
+    <key>Zn</key>
+    <mass>63.92914201</mass>
+    </element>
+
+    <element>
+    <key>Ga</key>
+    <mass>68.9255735</mass>
+    </element>
+
+    <element>
+    <key>Ge</key>
+    <mass>73.921177761</mass>
+    </element>
+
+    <element>
+    <key>As</key>
+    <mass>74.92159457</mass>
+    </element>
+
+    <element>
+    <key>Se</key>
+    <mass>79.9165218</mass>
+    </element>
+
+    <element>
+    <key>Br</key>
+    <mass>78.9183376</mass>
+    </element>
+
+    <element>
+    <key>Kr</key>
+    <mass>83.9114977282</mass>
+    </element>
+
+    <element>
+    <key>Rb</key>
+    <mass>84.9117897379</mass>
+    </element>
+
+    <element>
+    <key>Sr</key>
+    <mass>87.9056125</mass>
+    </element>
+
+    <element>
+    <key>Y</key>
+    <mass>88.9058403</mass>
+    </element>
+
+    <element>
+    <key>Zr</key>
+    <mass>89.9046977</mass>
+    </element>
+
+    <element>
+    <key>Nb</key>
+    <mass>92.9063730</mass>
+    </element>
+
+    <element>
+    <key>Mo</key>
+    <mass>97.90540482</mass>
+    </element>
+
+    <element>
+    <key>Tc</key>
+    <mass>96.9063667</mass>
+    </element>
+
+    <element>
+    <key>Ru</key>
+    <mass>101.9043441</mass>
+    </element>
+
+    <element>
+    <key>Rh</key>
+    <mass>102.9054980</mass>
+    </element>
+
+    <element>
+    <key>Pd</key>
+    <mass>107.9038916</mass>
+    </element>
+
+    <element>
+    <key>Ag</key>
+    <mass>106.9050916</mass>
+    </element>
+
+    <element>
+    <key>Cd</key>
+    <mass>113.90336509</mass>
+    </element>
+
+    <element>
+    <key>In</key>
+    <mass>114.903878776</mass>
+    </element>
+
+    <element>
+    <key>Sn</key>
+    <mass>119.90220163</mass>
+    </element>
+
+    <element>
+    <key>Sb</key>
+    <mass>120.9038120</mass>
+    </element>
+
+    <element>
+    <key>Te</key>
+    <mass>129.906222748</mass>
+    </element>
+
+    <element>
+    <key>I</key>
+    <mass>126.9044719</mass>
+    </element>
+
+    <element>
+    <key>Xe</key>
+    <mass>131.9041550856</mass>
+    </element>
+
+    <element>
+    <key>Cs</key>
+    <mass>132.9054519610</mass>
+    </element>
+
+    <element>
+    <key>Ba</key>
+    <mass>137.90524700</mass>
+    </element>
+
+    <element>
+    <key>La</key>
+    <mass>138.9063563</mass>
+    </element>
+
+    <element>
+    <key>Ce</key>
+    <mass>139.9054431</mass>
+    </element>
+
+    <element>
+    <key>Pr</key>
+    <mass>140.9076576</mass>
+    </element>
+
+    <element>
+    <key>Nd</key>
+    <mass>141.9077290</mass>
+    </element>
+
+    <element>
+    <key>Pm</key>
+    <mass>144.9127559</mass>
+    </element>
+
+    <element>
+    <key>Sm</key>
+    <mass>151.9197397</mass>
+    </element>
+
+    <element>
+    <key>Eu</key>
+    <mass>152.9212380</mass>
+    </element>
+
+    <element>
+    <key>Gd</key>
+    <mass>157.9241123</mass>
+    </element>
+
+    <element>
+    <key>Tb</key>
+    <mass>158.9253547</mass>
+    </element>
+
+    <element>
+    <key>Dy</key>
+    <mass>163.9291819</mass>
+    </element>
+
+    <element>
+    <key>Ho</key>
+    <mass>164.9303288</mass>
+    </element>
+
+    <element>
+    <key>Er</key>
+    <mass>165.9302995</mass>
+    </element>
+
+    <element>
+    <key>Tm</key>
+    <mass>168.9342179</mass>
+    </element>
+
+    <element>
+    <key>Yb</key>
+    <mass>173.9388664</mass>
+    </element>
+
+    <element>
+    <key>Lu</key>
+    <mass>174.9407752</mass>
+    </element>
+
+    <element>
+    <key>Hf</key>
+    <mass>179.9465570</mass>
+    </element>
+
+    <element>
+    <key>Ta</key>
+    <mass>180.9479958</mass>
+    </element>
+
+    <element>
+    <key>W</key>
+    <mass>183.95093092</mass>
+    </element>
+
+    <element>
+    <key>Re</key>
+    <mass>186.9557501</mass>
+    </element>
+
+    <element>
+    <key>Os</key>
+    <mass>191.9614770</mass>
+    </element>
+
+    <element>
+    <key>Ir</key>
+    <mass>192.9629216</mass>
+    </element>
+
+    <element>
+    <key>Pt</key>
+    <mass>194.9647917</mass>
+    </element>
+
+    <element>
+    <key>Au</key>
+    <mass>196.96656879</mass>
+    </element>
+
+    <element>
+    <key>Hg</key>
+    <mass>201.97064340</mass>
+    </element>
+
+    <element>
+    <key>Tl</key>
+    <mass>204.9744278</mass>
+    </element>
+
+    <element>
+    <key>Pb</key>
+    <mass>207.9766525</mass>
+    </element>
+
+    <element>
+    <key>Bi</key>
+    <mass>208.9803991</mass>
+    </element>
+
+    <element>
+    <key>Po</key>
+    <mass>208.9824308</mass>
+    </element>
+
+    <element>
+    <key>At</key>
+    <mass>209.9871479</mass>
+    </element>
+
+    <element>
+    <key>Rn</key>
+    <mass>210.9906011</mass>
+    </element>
+
+    <element>
+    <key>Fr</key>
+    <mass>223.0197360</mass>
+    </element>
+
+    <element>
+    <key>Ra</key>
+    <mass>223.0185023</mass>
+    </element>
+
+    <element>
+    <key>Ac</key>
+    <mass>227.0277523</mass>
+    </element>
+
+    <element>
+    <key>Th</key>
+    <mass>232.0380558</mass>
+    </element>
+
+    <element>
+    <key>Pa</key>
+    <mass>231.0358842</mass>
+    </element>
+
+    <element>
+    <key>U</key>
+    <mass>238.0507884</mass>
+    </element>
+
+    <element>
+    <key>Np</key>
+    <mass>236.046570</mass>
+    </element>
+
+    <element>
+    <key>Pu</key>
+    <mass>238.0495601</mass>
+    </element>
+
+    <element>
+    <key>Am</key>
+    <mass>241.0568293</mass>
+    </element>
+
+    <element>
+    <key>Cm</key>
+    <mass>243.0613893</mass>
+    </element>
+
+    <element>
+    <key>Bk</key>
+    <mass>247.0703073</mass>
+    </element>
+
+    <element>
+    <key>Cf</key>
+    <mass>249.0748539</mass>
+    </element>
+
+    <element>
+    <key>Es</key>
+    <mass>252.082980</mass>
+    </element>
+
+    <element>
+    <key>Fm</key>
+    <mass>257.0951061</mass>
+    </element>
+
+    <element>
+    <key>Md</key>
+    <mass>258.0984315</mass>
+    </element>
+
+    <element>
+    <key>No</key>
+    <mass>259.10103</mass>
+    </element>
+
+    <element>
+    <key>Lr</key>
+    <mass>262.10961</mass>
+    </element>
+
+    <element>
+    <key>Rf</key>
+    <mass>267.12179</mass>
+    </element>
+
+    <element>
+    <key>Db</key>
+    <mass>268.12567</mass>
+    </element>
+
+    <element>
+    <key>Sg</key>
+    <mass>271.13393</mass>
+    </element>
+
+    <element>
+    <key>Bh</key>
+    <mass>272.13826</mass>
+    </element>
+
+    <element>
+    <key>Hs</key>
+    <mass>270.13429</mass>
+    </element>
+
+    <element>
+    <key>Mt</key>
+    <mass>276.15159</mass>
+    </element>
+
+    <element>
+    <key>Ds</key>
+    <mass>281.16451</mass>
+    </element>
+
+    <element>
+    <key>Rg</key>
+    <mass>280.16514</mass>
+    </element>
+
+    <element>
+    <key>Cn</key>
+    <mass>285.17712</mass>
+    </element>
+
+    <element>
+    <key>Nh</key>
+    <mass>284.17873</mass>
+    </element>
+
+    <element>
+    <key>Fl</key>
+    <mass>289.19042</mass>
+    </element>
+
+    <element>
+    <key>Mc</key>
+    <mass>288.19274</mass>
+    </element>
+
+    <element>
+    <key>Lv</key>
+    <mass>293.20449</mass>
+    </element>
+
+    <element>
+    <key>Ts</key>
+    <mass>292.20746</mass>
+    </element>
+
+    <element>
+    <key>Og</key>
+    <mass>294.21392</mass>
+    </element>
+
+</data>
